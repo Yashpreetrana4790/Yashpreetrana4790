@@ -11,7 +11,7 @@
   &nbsp;·&nbsp;
   <a href="mailto:yashpreet.rana.dev@gmail.com">EMAIL ↗</a>
   &nbsp;·&nbsp;
-  <a href="tel:+918288927607">TEL ↗ 8288927607</a>
+  <a href="https://github.com/Yashpreetrana4790/Yashpreetrana4790/raw/main/assets/Yashpreet_Rana_Resume.docx">RESUME ↗</a>
 </p>
 
 ---
