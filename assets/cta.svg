@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Let us build something interesting">
+  <defs>
+    <style>
+      .bg { fill: #f6f5f1; }
+      .ink { fill: #0b0b0b; }
+      .mute { fill: #6a6a66; }
+      .line { stroke: #0b0b0b; stroke-width: 1; opacity: 0.25; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0a0a0a; }
+        .ink { fill: #f3f2ee; }
+        .mute { fill: #9a9a94; }
+        .line { stroke: #f3f2ee; opacity: 0.2; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="280"/>
+  <text x="48" y="46" class="mute" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">END / CONTACT</text>
+  <line class="line" x1="48" y1="66" x2="1152" y2="66"/>
+  <text x="48" y="150" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">LET'S BUILD</text>
+  <text x="48" y="214" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">SOMETHING INTERESTING.</text>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Yashpreet Rana - Frontend Engineer">
+  <defs>
+    <style>
+      .bg { fill: #f6f5f1; }
+      .ink { fill: #0b0b0b; }
+      .mute { fill: #6a6a66; }
+      .line { stroke: #0b0b0b; stroke-width: 1; opacity: 0.28; }
+      .accent { fill: #ff3b00; }
+      .meta { fill: #0b0b0b; opacity: 0.55; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0a0a0a; }
+        .ink { fill: #f3f2ee; }
+        .mute { fill: #9a9a94; }
+        .line { stroke: #f3f2ee; opacity: 0.22; }
+        .accent { fill: #ff4d1a; }
+        .meta { fill: #f3f2ee; opacity: 0.5; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="520"/>
+  <text x="48" y="46" class="mute" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">YR / 00 — INDEX</text>
+  <text x="1152" y="46" text-anchor="end" class="mute" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">LUDHIANA · INDIA</text>
+  <line class="line" x1="48" y1="66" x2="1152" y2="66"/>
+  <text x="48" y="168" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-3">YASHPREET</text>
+  <text x="48" y="258" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-3">RANA</text>
+  <text x="48" y="310" class="accent" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="4">FRONTEND  /  PRODUCT  /  UI</text>
+  <text x="48" y="372" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="-0.5">I BUILD DIGITAL EXPERIENCES</text>
+  <text x="48" y="410" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="-0.5">WITH CODE &amp; CURIOSITY.</text>
+  <line class="line" x1="48" y1="448" x2="1152" y2="448"/>
+  <text x="48" y="486" class="meta" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">03+ YEARS</text>
+  <text x="220" y="486" class="meta" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">REACT / NEXT</text>
+  <text x="420" y="486" class="meta" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">TYPESCRIPT</text>
+  <text x="620" y="486" class="meta" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">INDIA</text>
+  <text x="1152" y="486" text-anchor="end" class="accent" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">AVAILABLE ↗</text>
+</svg>

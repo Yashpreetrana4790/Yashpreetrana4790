@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Good UI makes complex things feel simple">
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      .ink { fill: #f3f2ee; }
+      .mute { fill: #8a8a84; }
+      .accent { fill: #ff4d1a; }
+      .line { stroke: #f3f2ee; stroke-width: 1; opacity: 0.18; }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #111110; }
+        .ink { fill: #f6f5f1; }
+        .mute { fill: #9a9a94; }
+        .accent { fill: #ff3b00; }
+        .line { stroke: #f6f5f1; opacity: 0.18; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="360"/>
+  <text x="48" y="48" class="mute" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">06 / PHILOSOPHY</text>
+  <line class="line" x1="48" y1="68" x2="1152" y2="68"/>
+  <text x="48" y="140" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2">GOOD UI ISN'T JUST</text>
+  <text x="48" y="192" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2">ABOUT LOOKING GOOD.</text>
+  <text x="48" y="260" class="accent" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2">IT'S ABOUT MAKING</text>
+  <text x="48" y="312" class="accent" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2">COMPLEX THINGS FEEL SIMPLE.</text>
+</svg>
