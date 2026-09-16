@@ -20,21 +20,15 @@
 
 **Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
 
 **Frameworks & Libraries**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui" alt="React, Next.js, Redux, Material UI" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui" alt="React, Next.js, Redux, Material UI" />
 
 **Styling**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-</p>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 
 ---
 
