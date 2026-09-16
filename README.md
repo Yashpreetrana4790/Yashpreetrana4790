@@ -18,12 +18,22 @@
 
 ## TECHNOLOGIES
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux,nodejs,mongodb,git,github,figma,vercel,vscode" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Redux, Node.js, MongoDB, Git, GitHub, Figma, Vercel, VS Code" />
-</p>
+**Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,materialui,npm,postman,linux,bash" alt="Express, Material UI, npm, Postman, Linux, Bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
+</p>
+
+**Frameworks & Libraries**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui" alt="React, Next.js, Redux, Material UI" />
+</p>
+
+**Styling**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </p>
 
 ---
