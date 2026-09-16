@@ -92,8 +92,7 @@ Frontend Developer with **3 years of experience** building web applications usin
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashpreetrana4790&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashpreetrana4790&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
 
   <br />
 
@@ -101,7 +100,6 @@ Frontend Developer with **3 years of experience** building web applications usin
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashpreetrana4790&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
 </div>
 
