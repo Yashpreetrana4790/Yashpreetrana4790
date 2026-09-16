@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  Frontend Engineer with 3+ years of experience building production web apps with <strong>React.js</strong> and <strong>Next.js</strong>.<br/>
+  Focused on UI architecture, performance, accessibility, and maintainable product engineering.<br/>
+  Based in Ludhiana, Punjab · Open to remote &amp; on-site opportunities.
+</p>
+
+<p align="center">
   <a href="https://portnotes.vercel.app">PORTFOLIO ↗</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yashpreetrana/">LINKEDIN ↗</a>
