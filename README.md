@@ -38,14 +38,6 @@
   <img src="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/main/assets/cta.svg" alt="Let's build something interesting." width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://portnotes.vercel.app"><strong>PORTFOLIO ↗</strong></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yashpreetrana/"><strong>LINKEDIN ↗</strong></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yashpreet.rana.dev@gmail.com"><strong>EMAIL ↗</strong></a>
-</p>
-
 ---
 
 <p align="center">
