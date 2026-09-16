@@ -11,7 +11,7 @@
   &nbsp;·&nbsp;
   <a href="mailto:yashpreet.rana.dev@gmail.com">EMAIL ↗</a>
   &nbsp;·&nbsp;
-  <a href="tel:+918288927607">TEL ↗</a>
+  <a href="tel:+918288927607">TEL ↗ 8288927607</a>
 </p>
 
 ---
