@@ -35,12 +35,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/main/assets/cta.svg" alt="Let's build something interesting." width="100%" />
-</p>
-
----
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/output/snake-light.svg" />
