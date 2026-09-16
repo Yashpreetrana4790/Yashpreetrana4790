@@ -17,7 +17,7 @@
     </style>
   </defs>
   <rect class="bg" width="1200" height="360"/>
-  <text x="48" y="48" class="mute" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">06 / PHILOSOPHY</text>
+  <text x="48" y="48" class="mute" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">05 / PHILOSOPHY</text>
   <line class="line" x1="48" y1="68" x2="1152" y2="68"/>
   <text x="48" y="140" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2">GOOD UI ISN'T JUST</text>
   <text x="48" y="192" class="ink" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2">ABOUT LOOKING GOOD.</text>

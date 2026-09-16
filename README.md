@@ -21,10 +21,9 @@ INDEX
 ────────────────────────────────────────
 01  PROFILE
 02  HOW I WORK
-03  SELECTED WORK
-04  STACK
-05  CURRENTLY
-06  PHILOSOPHY
+03  STACK
+04  CURRENTLY
+05  PHILOSOPHY
 END CONTACT
 ```
 
@@ -71,74 +70,7 @@ I don’t only write frontend code. I sit with requirements, ask better question
 
 ---
 
-## 03 / SELECTED WORK
-
-### 01 — VERIHIRE
-**Interview Management Platform**
-
-```text
-ROLE    Product engineering · Foundation architecture
-STACK   React · MUI · Redux Toolkit · RTK Query
-STATUS  Production
-```
-
-Designed and developed the project foundation from the ground up. Collaborated with design, backend, and QA across Agile cycles. Owned versioning with SemVer / Semversioner.
-
-[Open live product ↗](https://my.verihire.ai)
-
-### 02 — BEST VOCABULARY
-**AI-Powered Vocabulary Learning Platform**
-
-```text
-ROLE    Frontend engineering · UX systems
-STACK   Next.js · JavaScript · Tailwind CSS · REST APIs
-STATUS  Production
-```
-
-Built modern responsive interfaces and reusable UI systems. Developing engagement flows: saved words, XP/rank progression, emblem unlocks, and Word of the Day browsing.
-
-[Live ↗](https://www.bestvocabulary.com/) · [Repository ↗](https://github.com/Yashpreetrana4790/Bestvocabulary_platform)
-
-### 03 — DEVOVERFLOW
-**Full-stack Stack Overflow Clone**
-
-```text
-ROLE    Full-stack Next.js engineering
-STACK   Next.js 14 · TypeScript · Tailwind · Clerk · MongoDB
-STATUS  Live
-```
-
-App Router, Server Actions, and caching strategies. Secure auth with Clerk. Backend logic designed for clean client–server communication.
-
-[Live ↗](https://advancenextjs13.vercel.app/) · [Repository ↗](https://github.com/Yashpreetrana4790/advancenextjs13)
-
-### 04 — EARTHLINK · CLOUDWICK
-**Large-scale platform contributions**
-
-```text
-EARTHLINK   ISP platform — UI / API stability
-CLOUDWICK   Data & analytics — staffing engineer
-FOCUS       A11y · localization · performance · reliability
-RESULT      Lighthouse 90+ across ~90% of platform pages
-```
-
-Debugged critical UI and API issues on a large ISP platform. On Cloudwick, improved accessibility, localization, reliability, and SEO/performance under production pressure.
-
-### Experience
-
-```text
-DIGIMANTRA                         SEP 2024 — AUG 2026
-React Developer · On-site · Ludhiana
-8+ production projects · Next.js 14 · RTK Query · TypeScript
-
-TWS / TEKKI WEB SOLUTIONS          JUN 2023 — SEP 2024
-Next.js Developer · On-site · Ludhiana
-Next.js 13 · Tailwind · Figma → production interfaces
-```
-
----
-
-## 04 / STACK
+## 03 / STACK
 
 ```text
 FRONTEND              STATE / DATA           PLATFORM              TOOLS
@@ -159,7 +91,7 @@ Cross-browser reliability · Accessibility (A11y) · Maintainability
 
 ---
 
-## 05 / CURRENTLY
+## 04 / CURRENTLY
 
 ```text
 BUILDING          Production React / Next.js applications
