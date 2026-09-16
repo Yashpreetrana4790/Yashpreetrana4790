@@ -7,7 +7,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=Yashpreetrana4790&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-  <br /><br />
 
   **Frontend Engineer** · React.js · Next.js · JavaScript · TypeScript  
   Ludhiana, Punjab · Open to remote & on-site opportunities
