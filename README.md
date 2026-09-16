@@ -16,82 +16,19 @@
 
 ---
 
-```text
-INDEX
-────────────────────────────────────────
-01  PROFILE
-02  HOW I WORK
-03  STACK
-04  CURRENTLY
-05  PHILOSOPHY
-END CONTACT
-```
+## TECHNOLOGIES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux,nodejs,mongodb,git,github,figma,vercel,vscode" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Redux, Node.js, MongoDB, Git, GitHub, Figma, Vercel, VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,materialui,npm,postman,linux,bash" alt="Express, Material UI, npm, Postman, Linux, Bash" />
+</p>
 
 ---
 
-## 01 / PROFILE
-
-**FRONTEND ENGINEER** · 03+ YEARS · LUDHIANA, PUNJAB  
-Open to remote & on-site · Focus: product engineering
-
-I build production web applications with **React.js** and **Next.js** — the kind that have to ship, scale, and stay maintainable after the sprint ends.
-
-My work sits at the intersection of **UI architecture**, **performance**, **accessibility**, and **product thinking**. I collaborate closely with clients and cross-functional teams — designers, backend engineers, QA — to translate business needs into practical product experiences.
-
-Not just screens. Systems.
-
-```js
-const craft = [
-  "architecture before ornament",
-  "performance as a feature",
-  "accessibility by default",
-  "polish after it works",
-];
-```
-
----
-
-## 02 / HOW I WORK
-
-A process, not a performance.
-
-```text
-01  UNDERSTAND     What problem are we actually solving?
-02  STRUCTURE      How should the interface and architecture behave?
-03  BUILD          Turn the system into maintainable production code.
-04  POLISH         Improve the details that make the product feel finished.
-```
-
-```text
-CLIENT NEED → UNDERSTAND → TRANSLATE → BUILD → ITERATE → SHIP
-```
-
-I don’t only write frontend code. I sit with requirements, ask better questions, and help turn ambiguity into interfaces people can actually use.
-
----
-
-## 03 / STACK
-
-```text
-FRONTEND              STATE / DATA           PLATFORM              TOOLS
-─────────────────     ─────────────────      ─────────────────     ─────────────
-React.js              Redux Toolkit          Node.js               Git / GitHub
-Next.js               RTK Query              MongoDB               Figma
-TypeScript            REST APIs              Mongoose              Agile
-JavaScript            Async JS               Clerk                 Vercel
-Tailwind CSS          Client–Server          Server Actions        SemVer
-HTML5 / CSS3
-```
-
-```text
-PRINCIPLES
-Responsive systems · Component architecture · Performance
-Cross-browser reliability · Accessibility (A11y) · Maintainability
-```
-
----
-
-## 04 / CURRENTLY
+## CURRENTLY
 
 ```text
 BUILDING          Production React / Next.js applications
