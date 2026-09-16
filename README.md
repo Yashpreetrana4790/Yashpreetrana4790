@@ -33,7 +33,7 @@ const yashpreet = {
   focus: ["UI architecture", "performance", "accessibility", "maintainability"],
   collab: ["designers", "backend", "QA", "Agile squads"],
   languages: ["English", "Hindi", "Punjabi", "German"],
-  currently: "Shipping production UIs & polishing DX",
+  currently: "Shipping production UIs & polishing UX",
 };
 ```
 
@@ -191,20 +191,6 @@ Frontend Developer with **3 years of experience** building web applications usin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashpreetrana4790&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
 </div>
-
----
-
-## Education
-
-**BCA (Bachelor of Computer Applications)** · 2020 – 2023  
-CT University · **7 CGPA**
-
----
-
-## Certifications
-
-- **JavaScript (Advanced Concepts)** — Credential ID: `2fd6a4132172`
-- **Next.js (Advanced)** — App Router, Server Actions, Caching & modern performance patterns
 
 ---
 
