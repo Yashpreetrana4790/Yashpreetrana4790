@@ -57,9 +57,3 @@
     <img alt="Animated snake eating GitHub contribution cells" src="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/output/snake-dark.svg" width="100%" />
   </picture>
 </p>
-
-```text
-EOF
-
-// still curious.
-```
