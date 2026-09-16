@@ -43,8 +43,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yashpreetrana/"><strong>LINKEDIN ↗</strong></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Yashpreetrana4790"><strong>GITHUB ↗</strong></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:yashpreet.rana.dev@gmail.com"><strong>EMAIL ↗</strong></a>
 </p>
 
