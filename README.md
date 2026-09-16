@@ -28,23 +28,6 @@
 
 ---
 
-## CURRENTLY
-
-```text
-BUILDING          Production React / Next.js applications
-LEARNING          German
-EXPLORING         CI/CD · Cloud · Performance · Scalability
-INTERESTED IN     Product Engineering · Frontend Architecture · DX
-```
-
-```text
-EDUCATION     BCA · CT University · 2020–2023 · 7 CGPA
-CERTS         JavaScript Advanced · Next.js Advanced
-LANGUAGES     English · Hindi · Punjabi · German
-```
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/main/assets/philosophy.svg" alt="Good UI isn't just about looking good. It's about making complex things feel simple." width="100%" />
 </p>
