@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Yashpreetrana4790/Yashpreetrana4790/main/assets/hero.svg" alt="Yashpreet Rana — Frontend Engineer. I build digital experiences with code and curiosity." width="100%" />
 </p>
 
-<p align="center">
+<p>
   Frontend Engineer with 3+ years of experience building production web apps with <strong>React.js</strong> and <strong>Next.js</strong>.<br/>
   Focused on UI architecture, performance, accessibility, and maintainable product engineering.<br/>
   Based in Ludhiana, Punjab · Open to remote &amp; on-site opportunities.
