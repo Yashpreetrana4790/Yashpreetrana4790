@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://portnotes.vercel.app">PORTFOLIO ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yashpreetrana/">LINKEDIN ↗</a>
-  &nbsp;·&nbsp;
   <a href="mailto:yashpreet.rana.dev@gmail.com">EMAIL ↗</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Yashpreetrana4790/Yashpreetrana4790/raw/main/assets/Yashpreet_Rana_Resume.docx">RESUME ↗</a>
