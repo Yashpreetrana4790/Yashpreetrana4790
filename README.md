@@ -27,10 +27,16 @@
 **Frameworks & Libraries**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui" alt="React, Next.js, Redux, Material UI" />
+&nbsp;
+<a href="https://ui.shadcn.com/"><img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" alt="shadcn/ui" width="48" height="48" /></a>
 
 **Styling**
 
 <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 
 ---
 
