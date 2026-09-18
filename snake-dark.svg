@@ -177,8 +177,6 @@
 .c50_6 { animation:kc50_6 12.5s linear infinite; }
 @keyframes kc51_3 { 0.0% { fill:#0a0f0a; } 55.150000000000006% { fill:#0a0f0a; } 55.2% { fill:#d6ffe4; } 56.0% { fill:#d6ffe4; } 58.4% { fill:#39ff7a; } 63.2% { fill:#1fb84e; } 67.95% { fill:#1fb84e; } 68.0% { fill:#0a0f0a; } 100% { fill:#0a0f0a; } }
 .c51_3 { animation:kc51_3 12.5s linear infinite; }
-@keyframes kc51_4 { 0.0% { fill:#0a0f0a; } 52.75% { fill:#0a0f0a; } 52.8% { fill:#d6ffe4; } 53.6% { fill:#d6ffe4; } 56.0% { fill:#39ff7a; } 60.8% { fill:#1fb84e; } 65.55% { fill:#1fb84e; } 65.6% { fill:#0a0f0a; } 100% { fill:#0a0f0a; } }
-.c51_4 { animation:kc51_4 12.5s linear infinite; }
 @keyframes kc51_5 { 0.0% { fill:#0a0f0a; } 51.95% { fill:#0a0f0a; } 52.0% { fill:#d6ffe4; } 52.8% { fill:#d6ffe4; } 55.2% { fill:#39ff7a; } 60.0% { fill:#1fb84e; } 64.75% { fill:#1fb84e; } 64.8% { fill:#0a0f0a; } 100% { fill:#0a0f0a; } }
 .c51_5 { animation:kc51_5 12.5s linear infinite; }
 @keyframes kc51_6 { 0.0% { fill:#0a0f0a; } 51.150000000000006% { fill:#0a0f0a; } 51.2% { fill:#d6ffe4; } 52.0% { fill:#d6ffe4; } 54.4% { fill:#39ff7a; } 59.2% { fill:#1fb84e; } 63.95% { fill:#1fb84e; } 64.0% { fill:#0a0f0a; } 100% { fill:#0a0f0a; } }
@@ -187,6 +185,8 @@
 .c52_3 { animation:kc52_3 12.5s linear infinite; }
 @keyframes kc52_4 { 0.0% { fill:#12742f; } 53.550000000000004% { fill:#12742f; } 53.6% { fill:#d6ffe4; } 54.4% { fill:#d6ffe4; } 56.8% { fill:#39ff7a; } 61.6% { fill:#1fb84e; } 66.35000000000001% { fill:#1fb84e; } 66.4% { fill:#0a0f0a; } 100% { fill:#0a0f0a; } }
 .c52_4 { animation:kc52_4 12.5s linear infinite; }
+@keyframes kc52_5 { 0.0% { fill:#0a0f0a; } 52.75% { fill:#0a0f0a; } 52.8% { fill:#d6ffe4; } 53.6% { fill:#d6ffe4; } 56.0% { fill:#39ff7a; } 60.8% { fill:#1fb84e; } 65.55% { fill:#1fb84e; } 65.6% { fill:#0a0f0a; } 100% { fill:#0a0f0a; } }
+.c52_5 { animation:kc52_5 12.5s linear infinite; }
 @keyframes m1 { 0% { opacity:0; } 0.0% { opacity:1; } 4.0% { opacity:0; } 100% { opacity:0; } }
 .m1 { animation:m1 12.5s steps(1,end) infinite; }
 @keyframes m2 { 0% { opacity:0; } 4.0% { opacity:1; } 12.8% { opacity:0; } 100% { opacity:0; } }
@@ -220,7 +220,6 @@
     <rect class="c0_0" x="16" y="26" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <rect class="c0_1" x="16" y="40" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <rect class="c0_2" x="16" y="54" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
-  <rect class="c0_3" x="16" y="68" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <rect class="c1_0" x="30" y="26" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <rect class="c1_1" x="30" y="40" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <rect class="c1_2" x="30" y="54" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
@@ -583,6 +582,7 @@
   <rect class="c52_2" x="744" y="54" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <rect class="c52_3" x="744" y="68" width="11" height="11" rx="2.5" fill="#0d3d1a"/>
   <rect class="c52_4" x="744" y="82" width="11" height="11" rx="2.5" fill="#12742f"/>
+  <rect class="c52_5" x="744" y="96" width="11" height="11" rx="2.5" fill="#0a0f0a"/>
   <text class="lab" x="16" y="14">sep</text>
   <text class="lab" x="58" y="14">oct</text>
   <text class="lab" x="114" y="14">nov</text>
