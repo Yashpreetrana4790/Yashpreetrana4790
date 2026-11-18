@@ -254,7 +254,6 @@
   <rect class="c0_2" x="16" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c0_3" x="16" y="68" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c0_4" x="16" y="82" width="11" height="11" rx="2.5" fill="#161b22"/>
-  <rect class="c0_5" x="16" y="96" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_0" x="30" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_1" x="30" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_2" x="30" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
@@ -615,6 +614,7 @@
   <rect class="c52_0" x="744" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c52_1" x="744" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c52_2" x="744" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
+  <rect class="c52_3" x="744" y="68" width="11" height="11" rx="2.5" fill="#161b22"/>
   <text class="lab" x="16" y="14">nov</text>
   <text class="lab" x="58" y="14">dec</text>
   <text class="lab" x="114" y="14">jan</text>
@@ -636,20 +636,20 @@
   <rect x="679" y="132" width="11" height="11" rx="2.5" fill="#39d353"/>
   <text class="lab" x="701" y="141">more</text>
   <text class="lab" x="16" y="141">$ commits eaten:</text>
-  <text class="cnt m1" opacity="0" x="118" y="141">4/71</text>
-  <text class="cnt m2" opacity="0" x="118" y="141">5/71</text>
-  <text class="cnt m3" opacity="0" x="118" y="141">6/71</text>
-  <text class="cnt m4" opacity="0" x="118" y="141">10/71</text>
-  <text class="cnt m5" opacity="0" x="118" y="141">14/71</text>
-  <text class="cnt m6" opacity="0" x="118" y="141">15/71</text>
-  <text class="cnt m7" opacity="0" x="118" y="141">17/71</text>
-  <text class="cnt m8" opacity="0" x="118" y="141">29/71</text>
-  <text class="cnt m9" opacity="0" x="118" y="141">35/71</text>
-  <text class="cnt m10" opacity="0" x="118" y="141">39/71</text>
-  <text class="cnt m11" opacity="0" x="118" y="141">54/71</text>
-  <text class="cnt m12" opacity="0" x="118" y="141">59/71</text>
-  <text class="cnt m13" opacity="0" x="118" y="141">60/71</text>
-  <text class="cnt m14" opacity="0" x="118" y="141">61/71</text>
-  <text class="cnt m15" opacity="0" x="118" y="141">71/71</text>
+  <text class="cnt m1" opacity="0" x="118" y="141">4/73</text>
+  <text class="cnt m2" opacity="0" x="118" y="141">5/73</text>
+  <text class="cnt m3" opacity="0" x="118" y="141">6/73</text>
+  <text class="cnt m4" opacity="0" x="118" y="141">10/73</text>
+  <text class="cnt m5" opacity="0" x="118" y="141">14/73</text>
+  <text class="cnt m6" opacity="0" x="118" y="141">15/73</text>
+  <text class="cnt m7" opacity="0" x="118" y="141">17/73</text>
+  <text class="cnt m8" opacity="0" x="118" y="141">30/73</text>
+  <text class="cnt m9" opacity="0" x="118" y="141">36/73</text>
+  <text class="cnt m10" opacity="0" x="118" y="141">40/73</text>
+  <text class="cnt m11" opacity="0" x="118" y="141">56/73</text>
+  <text class="cnt m12" opacity="0" x="118" y="141">61/73</text>
+  <text class="cnt m13" opacity="0" x="118" y="141">62/73</text>
+  <text class="cnt m14" opacity="0" x="118" y="141">63/73</text>
+  <text class="cnt m15" opacity="0" x="118" y="141">73/73</text>
   <rect x="1" y="1" width="769" height="149" rx="12" fill="none" stroke="#30363d"/>
 </svg>
